@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hassa\\Desktop\\for my github\\projectalgo4ATM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0577E957-7995-4216-BE5B-B37C1411CBCB}|projectalgo4ATM.vcxproj|C:\\Users\\hassa\\Desktop\\for my github\\projectalgo4ATM\\projectalgo4ATM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0577E957-7995-4216-BE5B-B37C1411CBCB}|projectalgo4ATM.vcxproj|solutionrelative:projectalgo4ATM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "projectalgo4ATM.cpp",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\for my github\\projectalgo4ATM\\projectalgo4ATM.cpp",
+              "RelativeDocumentMoniker": "projectalgo4ATM.cpp",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\for my github\\projectalgo4ATM\\projectalgo4ATM.cpp",
+              "RelativeToolTip": "projectalgo4ATM.cpp",
+              "ViewState": "AQIAAA8CAAAAAAAAAAAWwB4CAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T10:33:50.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

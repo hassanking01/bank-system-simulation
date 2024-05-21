@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hassa\\Desktop\\for my github\\projectAlgo4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7927A1AD-09BD-4E0C-883C-8D51B0C31A13}|projectAlgo4.vcxproj|C:\\Users\\hassa\\Desktop\\for my github\\projectAlgo4\\projectAlgo4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7927A1AD-09BD-4E0C-883C-8D51B0C31A13}|projectAlgo4.vcxproj|solutionrelative:projectAlgo4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "projectAlgo4.cpp",
+              "DocumentMoniker": "C:\\Users\\hassa\\Desktop\\for my github\\projectAlgo4\\projectAlgo4.cpp",
+              "RelativeDocumentMoniker": "projectAlgo4.cpp",
+              "ToolTip": "C:\\Users\\hassa\\Desktop\\for my github\\projectAlgo4\\projectAlgo4.cpp",
+              "RelativeToolTip": "projectAlgo4.cpp",
+              "ViewState": "AQIAADwFAAAAAAAAAAAAAEEFAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T13:38:34.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

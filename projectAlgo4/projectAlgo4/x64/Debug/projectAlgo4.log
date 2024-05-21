@@ -1,0 +1,4 @@
+﻿  projectAlgo4.cpp
+C:\Users\hassa\Desktop\for my github\projectAlgo4\projectAlgo4.cpp(262,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hassa\Desktop\for my github\projectAlgo4\projectAlgo4.cpp(916,29): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  projectAlgo4.vcxproj -> C:\Users\hassa\Desktop\for my github\projectAlgo4\x64\Debug\projectAlgo4.exe
